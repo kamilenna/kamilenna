@@ -1,7 +1,7 @@
 <h1>Oi 👋, Eu sou Karla Milenna</h1>
 <h3>Uma desenvolvedora Front-end Junior.</h3>
 
-<!--- 👨‍💻 Todos os meus projetos estão disponíveis em <a href="#"><strong>my portfolio link</strong></a>-->
+👨‍💻 Os meus projetos estão disponíveis no <a href="https://karlamilenna.netlify.app/"><strong>meu portfólio</strong></a>.
 
 </p>
 <div align="center">
