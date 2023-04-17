@@ -1,8 +1,6 @@
 <h1 style="text-align: center;">Olá , Eu sou Karla Milenna 👋</h1>
 
-<div style="display:block; margin: 0 auto; width: 30%;">
-  <img src="my-octocat.png"/>
-</div>
+<img src="my-octocat.png" style="display:block; margin: 0 auto; width: 30%;"/>
 
 <div style="text-align: center;">
   <h3>Uma desenvolvedora Front-end Junior, apaixonada por Tecnologia e Design.</h3>
