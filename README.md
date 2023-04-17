@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Olá , Eu sou Karla Milenna 👋</h1>
 
-<div style="display:block; margin: 0 auto; width: 250px;">
+<div style="display:block; margin: 0 auto; width: 150px;">
   <img src="my-octocat.png" style="width: 100%"/>
 </div>
 
