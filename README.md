@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Olá , Eu sou Karla Milenna 👋</h1>
+<h1 align="center">Olá , Eu sou Karla Milenna 👋</h1>
 
 <div align="center">
   <img src="my-octocat.png"  style="width: 30%;"/>
