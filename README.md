@@ -1,8 +1,11 @@
 <h1 style="text-align: center;">Olá , Eu sou Karla Milenna 👋</h1>
 
-<img src="my-octocat.png" style="display:block; margin: 0 auto; width: 30%;"/>
+<div align="center">
+  <img src="my-octocat.png"  style="width: 30%;"/>
+</div>
 
-<div style="text-align: center;">
+
+<div align="center">
   <h3>Uma desenvolvedora Front-end Junior, apaixonada por Tecnologia e Design.</h3>
 
   <h3>👨‍💻 Os meus projetos estão disponíveis no <a href="https://karlamilenna.netlify.app/"><strong>meu portfólio</strong></a>.</h3>
