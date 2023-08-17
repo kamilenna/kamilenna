@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <h3>Uma desenvolvedora Front-end Junior, apaixonada por Tecnologia e Design.</h3>
+  <h3>Uma <strong>Desenvolvedora Web Front-end</strong>, apaixonada por Tecnologia e Design.</h3>
 
   <h3>👨‍💻 Os meus projetos estão disponíveis no <a href="https://karlamilenna.netlify.app/"><strong>meu portfólio</strong></a>.</h3>
 </div>
